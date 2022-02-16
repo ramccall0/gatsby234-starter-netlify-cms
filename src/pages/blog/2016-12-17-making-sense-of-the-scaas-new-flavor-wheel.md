@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Journey to $1M Per Month
 date: 2016-12-17T15:04:10.000Z
+description: Welcome to my journey to $1M per month
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/raiiiccall-3-7.32.39-am.png
 tags:
   - flavor
   - tasting
